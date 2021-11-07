@@ -52,4 +52,4 @@ N/A
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at malcolm.giovanni@gmail.com. 
-You can find more of my work at ![giovannimalcolm](https://github.com/giovannimalcolm/).
+You can find more of my work at [giovannimalcolm](https://github.com/giovannimalcolm/).
